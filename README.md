@@ -26,7 +26,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/customerId-embedding-analysis.git
+git clone https://github.com/saibaba/customerId-embedding-analysis.git
 cd customerId-embedding-analysis
 
 # Install dependencies
