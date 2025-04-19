@@ -18,7 +18,7 @@
 - **PyTorch experiments** showing overfitting and generalization
 - **Visualization** of loss curves and AUC scores
 - **Rescue model** using Dropout and L2 regularization
-- **Mathematical proof** showing variance \\( \\propto \\frac{1}{n} \\)
+- **Mathematical proof** showing variance $\propto \frac{1}{n}$
 
 ---
 
