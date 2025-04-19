@@ -7,3 +7,27 @@
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen">
 </p>
+
+**Understanding why using raw customer identifiers (`customerId`) in machine learning models can cause overfitting, and how to address it with better design and regularization.**
+
+---
+
+## 📚 Contents
+
+- **Deep dive** into why `customerId` is dangerous when misused
+- **PyTorch experiments** showing overfitting and generalization
+- **Visualization** of loss curves and AUC scores
+- **Rescue model** using Dropout and L2 regularization
+- **Mathematical proof** showing variance \\( \\propto \\frac{1}{n} \\)
+
+---
+
+## ⚙️ Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/customerId-embedding-analysis.git
+cd customerId-embedding-analysis
+
+# Install dependencies
+pip install -r requirements.txt
