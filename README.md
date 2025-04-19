@@ -4,7 +4,6 @@
   </a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.0%2B-red">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-brightgreen">
 </p>
 
